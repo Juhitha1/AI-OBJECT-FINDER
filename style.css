@@ -1,0 +1,49 @@
+body
+{
+    background-size: cover;
+}
+
+.heading
+{
+    width: 100%;
+    font-size: 19px;
+}
+
+.div_1
+{
+    text-align:center;
+}
+
+.label_1
+{
+    color: aliceblue;
+}
+
+.h_3
+{
+    color: aliceblue;
+    font-size: 15;
+    padding: 10;
+}
+
+.h_3
+{
+    color: aliceblue;
+    font-size: 15;
+    padding: 10;
+}
+
+.h3
+{
+    color: aliceblue;
+    font-size: 15;
+    padding: 10;
+}
+
+canvas
+{
+    border: 2px solid white;
+    border-radius: 10px;
+    margin-top: 130px;
+    box-shadow: 5px 5px 5px whitesmoke;
+}
